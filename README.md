@@ -22,35 +22,29 @@ While there is still much work to be done to refine and fully understand these v
 
 You can see the outcomes of this approach in the following images and GIFs:
 - Proximity and differences between word embeddings
-- Evolution of sentence embeddings, word by word
 
 ![Many Plots](./imgs/many-plots.png)
+
+- A sentence compared to itself + one word compare to that word
+
 ![Sentence Complete](./imgs/sentences_complete.png)
+
+- Evolution of sentence embeddings, word by word
+
 ![Evolution GIF](./imgs/animation.gif)
 
 ## 🔧 Getting Started
 
-The entire project is encapsulated in a notebook. All required dependencies are specified within.
+The entire project is encapsulated in a notebook. All required dependencies are specified in it.
 
 For a smooth experience:
 1. Clone the repository.
-2. Create a virtual environment (`venv`) to ensure isolation of dependencies.
-3. Activate the `venv` and install dependencies.
 
 ```bash
-git clone <repository_link>
-python3 -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
+git clone git@github.com:Naowak/embeddings-radar-chart.git
 ```
 
 ## 💡 Contribution & Feedback
 
 Feel free to fork, raise issues or provide feedback. Your insights could further enhance the visualization and understanding of embeddings!
 
----
-
-*Designed with ❤️ by [Your Name](Your_GitHub_Profile_Link)*
-```
-
-Replace placeholders like `<repository_link>`, `path_to_image1.png`, etc., with the actual links or paths. This markdown can be saved as a `README.md` file in your repository.
