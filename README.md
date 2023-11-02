@@ -37,6 +37,7 @@ You can see the outcomes of this approach in the following images and GIFs:
 
 ![Evolution Gaussienne](./imgs/evolution_gaussienne.png)
 
+
 ## 🔧 Getting Started
 
 The entire project is encapsulated in a notebook. All required dependencies are specified in it.
