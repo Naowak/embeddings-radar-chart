@@ -4,7 +4,7 @@
 
 This project aims to represent word embeddings, particularly the BERT embeddings, which consist of 768 dimensions. The challenge was to represent these embeddings in a readable manner without compromising on the number of dimensions displayed.
 
-To achieve this, words were plotted in a radar chart (or spider chart), where the goal was to find an order to arange dimensions that minimize the correlation between dimensions that are closed to each other, ensuring a clearer representation.
+To achieve this, words were plotted in a radar chart (or spider chart), where the goal was to find an order to arange dimensions that maximises the correlation between dimensions that are closed to each other, ensuring a clearer representation.
 
 ## 🚀 Approach
 
