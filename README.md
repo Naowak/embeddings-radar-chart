@@ -15,7 +15,7 @@ To achieve this, words were plotted in a radar chart (or spider chart), where th
 
 ## 🧐 Results Interpretation
 
-While there is still much work to be done to refine and fully understand these visual representations, the current results showcase the utility of this tool. The radar charts provide a tangible way to observe the evolution of a word or a sentence and highlight the closeness or disparity between two or more words or sentences. They offer a promising foundation to delve deeper into the nuances of embeddings and to explore fresh perspectives in natural language processing.
+Although we occasionally observe striking overlaps for words with close semantic meanings, the outcomes are mixed and raise questions about their interpretation. First, it's challenging to draw definitive conclusions from these representations—they don't always provide a clear understanding of the semantic relationships between words. Furthermore, words intuitively perceived as similar may turn out to have surprisingly distant representations, and conversely, words that seem different may display unexpected proximity in the radar charts. Additionally, the approach of grouping dimensions using a Gaussian filter adds an element of mystery: it's not clear what precise transformations or underlying relationships are emerging from this process. 
 
 
 ## 🎨 Visualization
